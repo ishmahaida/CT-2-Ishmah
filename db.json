@@ -1,0 +1,57 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "iPhone X",
+      "price": 10000,
+      "category": "New",
+      "image": "https://ibox.co.id/media/wysiwyg/iPhone/iPhone-X/iphoneX_15.png"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 11",
+      "price": 12000,
+      "category": "New",
+      "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone11-ungu_3.png"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 6s",
+      "price": 3000,
+      "category": "Second",
+      "image": "https://www.freepngimg.com/thumb/apple_iphone/5-2-apple-iphone-png-picture.png"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 7+",
+      "price": 4000,
+      "category": "Second",
+      "image": "https://www.festivalclaca.cat/imgfv/b/165-1654735_iphone-7-plus-png-iphone-7-plus-128gb.png"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 8",
+      "price": 7000,
+      "category": "New",
+      "image": "https://ibox.co.id/media/wysiwyg/iPhone/iPhone-8/iphone8_07-min.jpg"
+    },
+    {
+      "id": 6,
+      "name": "iPhone XR",
+      "price": 9000,
+      "category": "Second",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-coral-select-201809?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1551226036571"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 11 Pro",
+      "price": 15000,
+      "category": "New",
+      "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-11-pro-max-midnight-green_3.png"
+    }   
+  ],
+  "user":{
+    "username": "admin",
+    "password": "test"
+  }
+}
